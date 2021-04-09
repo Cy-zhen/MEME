@@ -2,8 +2,9 @@ MEME
 =====
 将对应emoji表情的符号码复制后输入你的markdown文本即可显示emoji表情。
 如`:blush:`，显示为:blush:
-👨‍💻‍*`Froked from @guodongxiaren`*
+>👨‍💻‍ *Froked from @guodongxiaren*
 
+<img src="https://raw.githubusercontent.com/Cy-zhen/MEME/main/GIF/Rainbowcat.gif" width = "250px">
 ## 人物
 
 |syntax|preview|syntax|preview|syntax|preview|
